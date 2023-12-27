@@ -49,6 +49,8 @@ ul.nav-links{
     display: flex;
     list-style: none;
     
+    gap: 30px;
+    
 
 }
 li.nav-links{
@@ -56,6 +58,7 @@ li.nav-links{
     margin-right: 30px;
     font-size: 17px;
     font-weight: 300; 
+   
     
 }
 .content{

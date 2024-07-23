@@ -6,7 +6,7 @@ import Contact from '../components/Contact'
 function page() {
   return (
     <div>
-      
+      <HeroSection/>
       <About/>
       <Contact/>
     </div>
